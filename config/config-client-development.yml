@@ -8,7 +8,7 @@ logging:
     root: WARN
     com:
       ruminderhub: DEBUG
-    tomcat: INFO
+    tomcat: INFODAN SELAMLAR
     
 
 database: app_develop
