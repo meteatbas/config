@@ -3,7 +3,7 @@ logging:
     tomcat: 
      - org.apache.catalina
      - org.apache.coyote
-     - org.apache.tomcat
+     - org.apache.tomcattebsdd
   level:
     root: WARN
     com:
